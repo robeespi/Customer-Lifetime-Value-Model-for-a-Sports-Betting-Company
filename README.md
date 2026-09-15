@@ -1,7 +1,7 @@
 # Customer-Lifetime-Value-Model-for-a-Sports-Betting-Company
 Developed a Customer Lifetime Value (CLV) modelling solution for a sports betting company to identify customers with the highest long-term value potential. I analysed betting behaviour, product mix, stake types and customer characteristics, performed data-quality validation and exploratory analysis, and designed a profitability-focused ML approach. The model enables customer segmentation and supports targeted marketing, promotions, retention and acquisition strategies.
 
-#Project Overview
+# Project Overview
 
 This project explores the development of a Customer Lifetime Value (CLV) modelling framework for a sports betting company, with the objective of identifying customers who are expected to generate the greatest long-term net profit.
 
