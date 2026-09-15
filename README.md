@@ -9,7 +9,7 @@ Rather than focusing solely on customer spending or betting turnover, the approa
 
 The project combines data quality assessment, exploratory data analysis, feature engineering, predictive modelling and customer segmentation to translate betting data into actionable commercial insights.
 
-#Business Problem
+# Business Problem
 
 Sports betting businesses need to understand not only how much customers bet, but which customers are likely to remain profitable over time.
 
@@ -31,7 +31,7 @@ Product and pricing strategies
 
 The project recommends measuring CLV as total expected net profit from a customer over their lifecycle, rather than simply revenue or betting turnover.
 
-#Data Quality Assessment
+# Data Quality Assessment
 
 The first stage of the project involved inspecting the betting dataset for inconsistencies and invalid records.
 
@@ -47,7 +47,7 @@ The largest issue was related to invalid betting amounts, with 830 records conta
 
 This stage highlights the importance of validating transactional data before using it for customer-level modelling.
 
-#Exploratory Data Analysis
+# Exploratory Data Analysis
 
 The exploratory analysis investigated profitability across several dimensions of betting behaviour.
 
@@ -85,7 +85,7 @@ The data was aggregated to the customer level to examine the relationship betwee
 
 Most customers were concentrated around relatively small average betting amounts, while higher-value customers showed considerably greater variability in returns. The analysis also identified customers generating significant negative returns for the bookmaker, highlighting the importance of distinguishing high turnover from high profitability.
 
-#CLV Modelling Approach
+# CLV Modelling Approach
 
 The proposed modelling framework uses a customer's first 20 bets to predict their future profitability.
 
@@ -105,7 +105,7 @@ Transaction costs
 
 This approach aligns the model with the commercial objective of profit maximisation rather than simply maximising betting turnover.
 
-#Feature Engineering
+# Feature Engineering
 
 Features were designed around several dimensions of customer behaviour.
 
