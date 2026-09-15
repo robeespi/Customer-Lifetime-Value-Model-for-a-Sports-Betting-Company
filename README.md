@@ -217,6 +217,7 @@ Loyalty programs
 VIP experiences
 Personalised engagement
 Retention initiatives
+
 🟡 Medium CLV
 
 Customers with potential to become more valuable.
@@ -227,6 +228,7 @@ Targeted offers
 Personalised promotions
 Engagement campaigns
 Cross-sell opportunities
+
 🔴 Low CLV / Bonus-Dependent
 
 Customers with limited profitability or potentially negative economics.
